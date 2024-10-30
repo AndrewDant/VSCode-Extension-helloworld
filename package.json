@@ -14,8 +14,11 @@
   "contributes": {
     "commands": [
       {
-        "command": "helloworld.helloWorld",
-        "title": "Hello World"
+        "command": "helloworld.practiceCommand",
+        "title": "Hello World Title"
+      }, {
+        "command": "helloworld.secondCommand",
+        "title": "Second Command"
       }
     ]
   },
